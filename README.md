@@ -1,6 +1,6 @@
 # OnStep STM32 PCB 
 
-![OnStep STM32 board](/home/user/samd/onstep/OnStep_STM32_PCB/images/block.jpg)
+![OnStep STM32 board](/images/block.jpg)
 
 This is a PCB for [OnStep](https://github.com/hjd1964/OnStep),
 designed for [1455N1201](https://www.hammfg.com/part/1455N1201) case.
