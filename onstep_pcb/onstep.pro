@@ -1,4 +1,4 @@
-update=16.01.2020 20:43:30
+update=Чт 29 окт 2020 11:10:19
 version=1
 last_client=kicad
 [general]
@@ -63,7 +63,7 @@ SolderPasteRatio=-0
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=output/
+PlotDirectoryName=../project_outputs/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
